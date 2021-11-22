@@ -1,0 +1,15 @@
+{
+  "name": "vdict-parser",
+  "version": "1.0.0",
+  "description": "Parser for vdict",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "xCrypt0r",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "*",
+    "request": "^2.88.2"
+  }
+}
